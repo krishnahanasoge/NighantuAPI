@@ -1,0 +1,10 @@
+com\appspot\nighantu\data\PadaGani.class
+com\appspot\nighantu\model\Pada.class
+com\appspot\nighantu\service\BalakeService.class
+com\appspot\nighantu\controller\BalakeController.class
+com\appspot\nighantu\data\BalakeGani.class
+com\appspot\nighantu\controller\PadaController.class
+com\appspot\nighantu\namaskaara\NamaskaaraController.class
+com\appspot\nighantu\model\Balake.class
+com\appspot\nighantu\service\PadaService.class
+com\appspot\nighantu\KannadaNighantu.class
